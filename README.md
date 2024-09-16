@@ -1,4 +1,4 @@
-# ECE 2112 - Experiment #3
+# ECE 2112 - Experiment #2
 I. Intended Learning Outcomes:
 1. To identify the codes and functions incorporated in the Numpy library
 2. To be able to apply and use the different codes and functions in creating a Python program using a Numpy library
